@@ -1,0 +1,10 @@
+********************************* E-Ticket *********************************
+	*********** Case 7 Railway Reservation System ***********
+
+
+Train code: 1234
+PNR number: 88
+Boarding_Date:23:12:2023
+Category: sl
+Name: 		Age: 
+vinay 12 prabhakar 28 
